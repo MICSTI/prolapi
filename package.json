@@ -1,0 +1,23 @@
+{
+  "name": "prolapi",
+  "version": "1.0.0",
+  "description": "A simple and fun programming language API for demo purposes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MICSTI/prolapi.git"
+  },
+  "author": "MICSTI",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/MICSTI/prolapi/issues"
+  },
+  "homepage": "https://github.com/MICSTI/prolapi#readme",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
