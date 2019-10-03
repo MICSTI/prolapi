@@ -4,6 +4,7 @@ const port = 3333;
 
 const app = express();
 
+app.get('/', (req, res) => res.status(200).send('👨‍💻 Hi there! This is the awesome Programming Language API 👩‍💻'));
 const languages = require('./data');
 app.get('/api/languages', (req, res) => res.status(200).json(languages));
 app.get('/api/languages/:id', (req, res) => {
