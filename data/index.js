@@ -54,6 +54,61 @@ const languages = [
         hello: "python-hello",
     },
     {
+        id: 7,
+        name: "Ruby",
+        created: 1995,
+        creator: [
+            "Yukihiro Matsumoto"
+        ],
+        logo: "ruby-logo.png",
+        hello: "ruby-hello",
+    },
+    {
+        id: 8,
+        name: "C++",
+        created: 1985,
+        creator: [
+            "Bjarne Stroustrup"
+        ],
+        logo: "c++-logo.png",
+        hello: "c++-hello",
+    },
+    {
+        id: 9,
+        name: "PHP",
+        created: 1995,
+        creator: [
+            "Rasmus Lerdorf"
+        ],
+        logo: "php-logo.png",
+        hello: "php-hello",
+    },
+    {
+        id: 10,
+        name: "Swift",
+        created: 2014,
+        creator: [
+            "Chris Lattner",
+            "Doug Gregor",
+            "John McCaill",
+            "Ted Kremenek",
+            "Joe Groff",
+            "Apple Inc."
+        ],
+        logo: "swift-logo.png",
+        hello: "swift-hello",
+    },
+    {
+        id: 11,
+        name: "Kotlin",
+        created: 2011,
+        creator: [
+            "JetBrains"
+        ],
+        logo: "kotlin-logo.png",
+        hello: "kotlin-hello",
+    },
+    {
         id: 99,
         name: "Brainfuck",
         created: 1993,
