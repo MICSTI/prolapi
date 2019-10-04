@@ -5,7 +5,7 @@ const languages = [
         created: 1995,
         creator: ["Brendan Eich"],
         logo: "javascript-logo.png",
-        hello: "javascript-hello.txt",
+        hello: "javascript-hello",
     },
     {
         id: 2,
@@ -13,7 +13,7 @@ const languages = [
         created: 1995,
         creator: ["James Gosling"],
         logo: "java-logo.png",
-        hello: "java-hello.txt",
+        hello: "java-hello",
     },
     {
         id: 3,
@@ -21,7 +21,7 @@ const languages = [
         created: 1972,
         creator: ["Dennis Ritchie"],
         logo: "c-logo.png",
-        hello: "c-hello.txt",
+        hello: "c-hello",
     },
     {
         id: 4,
@@ -29,7 +29,7 @@ const languages = [
         created: 2000,
         creator: ["Microsoft"],
         logo: "csharp-logo.png",
-        hello: "csharp-hello.txt",
+        hello: "csharp-hello",
     },
     {
         id: 5,
@@ -41,7 +41,7 @@ const languages = [
             "Ken Thompson"
         ],
         logo: "go-logo.png",
-        hello: "go-hello.txt",
+        hello: "go-hello",
     },
     {
         id: 6,
@@ -51,7 +51,7 @@ const languages = [
             "Guido van Rossum"
         ],
         logo: "python-logo.png",
-        hello: "python-hello.txt",
+        hello: "python-hello",
     },
     {
         id: 99,
@@ -59,7 +59,7 @@ const languages = [
         created: 1993,
         creator: "Urban Müller",
         logo: "brainfuck-logo.png",
-        hello: "brainfuck-hello.txt",
+        hello: "brainfuck-hello",
     },
 ];
 
