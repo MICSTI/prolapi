@@ -133,7 +133,7 @@ const languages = [
         id: 99,
         name: "Brainfuck",
         created: 1993,
-        creator: "Urban Müller",
+        creator: ["Urban Müller"],
         logo: "brainfuck-logo.png",
         hello: "brainfuck-hello",
     },
