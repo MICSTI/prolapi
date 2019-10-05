@@ -109,6 +109,27 @@ const languages = [
         hello: "kotlin-hello",
     },
     {
+        id: 12,
+        name: "Objective-C",
+        created: 1984,
+        creator: [
+            "Tom Love",
+            "Brad Cox"
+        ],
+        logo: "objective-c-logo.png",
+        hello: "objective-c-hello",
+    },
+    {
+        id: 13,
+        name: "Rust",
+        created: 2010,
+        creator: [
+            "Graydon Hoare"
+        ],
+        logo: "rust-logo.png",
+        hello: "rust-hello",
+    },
+    {
         id: 99,
         name: "Brainfuck",
         created: 1993,
