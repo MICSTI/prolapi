@@ -5,5 +5,7 @@ To start, run `npm install` followed by `npm start`, which will start the API on
 
 # API routes
 `GET /` - returns a hello message
+
 `GET /api/languages` returns an array of all programming languages
+
 `GET /api/languages/1` returns the programming languages with the specified ID
